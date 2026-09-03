@@ -2,8 +2,8 @@
 
 A two-page React app for tracking tasks on a drag-and-drop Kanban board and reviewing team progress on a summary dashboard. Built as a static, front-end-only application — no server, no database, just the browser's Local Storage.
 
-**Live demo:** `https://<username>.github.io/<repo-name>/`
-**Repository:** `https://github.com/<username>/<repo-name>`
+**Live demo:** https://shramanshakya.github.io/KanbanBoard/#/
+**Repository:** https://github.com/ShramanShakya/KanbanBoard
 
 ## Team
 
