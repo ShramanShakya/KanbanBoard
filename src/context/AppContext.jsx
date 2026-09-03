@@ -11,7 +11,7 @@ const SEED_TASKS = [
   {
     id: uid('task'),
     title: 'Set up project repository',
-    description: 'Initialize the Vite + React app and push the first commit.',
+    description: 'Set up your repo and get started guys',
     category: 'Development',
     startDate: todayISO(),
     dueDate: todayISO(),
@@ -21,8 +21,8 @@ const SEED_TASKS = [
   },
   {
     id: uid('task'),
-    title: 'Design task card layout',
-    description: 'Draft the visual style for cards on the board.',
+    title: 'Design it brother',
+    description: 'Start up lads',
     category: 'Design',
     startDate: todayISO(),
     dueDate: todayISO(),
@@ -32,8 +32,8 @@ const SEED_TASKS = [
   },
   {
     id: uid('task'),
-    title: 'Write dashboard charts',
-    description: 'Add status, category, and performance charts.',
+    title: 'Anything',
+    description: 'Random bs go',
     category: 'Development',
     startDate: todayISO(),
     dueDate: todayISO(),
